@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "183759091193",
+    "project_id": "apnasaloon-c5142",
+    "storage_bucket": "apnasaloon-c5142.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183759091193:android:5fe343946e180554017928",
+        "android_client_info": {
+          "package_name": "com.apna_saloon.apnasaloon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNBicslhv3K087kfeWSE1vxjQAjOkRPbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
